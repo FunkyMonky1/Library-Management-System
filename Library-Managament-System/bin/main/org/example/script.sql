@@ -1,0 +1,19 @@
+CREATE TABLE Books(
+    idBooks INT AUTO_INCREMENT PRIMARY KEY,
+    titel VARCHAR(45) NOT NULL UNIQUE,
+    autor VARCHAR(45) NOT NULL,
+    erscheinungsjahr VARCHAR(45) NOT NULL,
+    available TINYINT(1) DEFAULT 1
+);
+
+CREATE TABLE Kunde(
+    idkunde INT AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(45) NOT NULL,
+    email VARCHAR(45) NOT NULL UNIQUE,
+    adresse VARCHAR(45) NOT NULL
+);
+
+
+    
+
+    
