@@ -1,1 +1,1 @@
-Hello this is FunkyMonk a Student at Heinrich-Heine-University i build this Library for fun, because i wanted to test my Skills not only in Java but also in SQL ,which i learned at my University course
+Hello this is FunkyMonk a Student at Heinrich-Heine-University i build this Library for fun, because i wanted to test my Skills not only in Java but also in SQL ,which i learned at my University 
